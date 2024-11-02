@@ -45,4 +45,7 @@ Sau khi thành lập 1 task, thì mình sẽ scan thử:
 
 ![image](https://github.com/user-attachments/assets/0cb29ddb-c2f7-4bfc-963c-b0653981ee48)
 
+Và OpenVAS đã cho mình kết quả
+
+![image](https://github.com/user-attachments/assets/e0e7cb0b-d803-4e41-8eb8-5758a1a9a8d9)
 
