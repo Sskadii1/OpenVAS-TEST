@@ -40,7 +40,7 @@ Sau khi thành lập 1 task, thì mình sẽ scan thử:
 
 ![image](https://github.com/user-attachments/assets/4f7c83a2-e317-4adf-a79b-4b63be83608f)
 
-Ở đây, sau khi scan xong nó lại hiện port dead, nên mình thử lại 1 port khác:
+Ở đây, sau khi scan xong nó lại hiện dead, nên mình thử lại ip khác:
 ![image](https://github.com/user-attachments/assets/196a838f-b0d5-4ce2-83df-fd81356c4e77)
 
 ![image](https://github.com/user-attachments/assets/0cb29ddb-c2f7-4bfc-963c-b0653981ee48)
